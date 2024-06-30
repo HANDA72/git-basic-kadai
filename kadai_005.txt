@@ -1,0 +1,2 @@
+4527f5d (HEAD -> main, origin/main) 日本語訳を追記
+425c59a hello_world.txtを追加
