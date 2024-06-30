@@ -1,1 +1,16 @@
+~ % cd '/Users/handanatsuki/Desktop/kadai/git_challenge'
+git_challenge % git init                                                
 
+Reinitialized existing Git repository in /Users/handanatsuki/Desktop/kadai/git_challenge/.git/
+git_challenge % git add hello_world.txt
+git_challenge % git commit -m "hello_world.txtを追加"
+[main e7cede8] hello_world.txtを追加
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+git_challenge % git add hello_world.txt
+git_challenge % git commit -m "日本語訳を追記"       
+[main e1cfe3e] 日本語訳を追記
+ 1 file changed, 2 insertions(+)
+git_challenge % git log --oneline
+ 4527f5d(HEAD -> main) 日本語訳を追記
+ 425c59a hello_world.txtを追加
