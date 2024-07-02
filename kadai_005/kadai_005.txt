@@ -1,7 +1,6 @@
-~ % cd '/Users/handanatsuki/Desktop/kadai/git_challenge'
+cd '/Users/Desktop/kadai/git_challenge'
 git_challenge % git init                                                
-
-Reinitialized existing Git repository in /Users/handanatsuki/Desktop/kadai/git_challenge/.git/
+Reinitialized existing Git repository in /Users/Desktop/kadai/git_challenge/.git/
 git_challenge % git add hello_world.txt
 git_challenge % git commit -m "hello_world.txtを追加"
 [main e7cede8] hello_world.txtを追加
